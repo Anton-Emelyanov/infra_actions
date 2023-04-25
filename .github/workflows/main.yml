@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: CI1
+=======
+name: CI
+>>>>>>> origin/main
 on: [push]
 jobs:
   my_job:
